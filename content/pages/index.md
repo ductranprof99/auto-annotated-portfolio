@@ -14,10 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: I love u Love u
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: Cam đâu rồi bật lên anh coi mặt em mà
     styles:
       self:
         height: auto
